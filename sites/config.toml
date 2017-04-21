@@ -2,7 +2,7 @@ baseurl = "https://example.com"
 title = "Academic"
 copyright = "&copy; 2016 Your Name"
 theme = "hugo-academic"
-publishDir = "docs"
+publishDir = "../../clrajapaksha.github.io"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
